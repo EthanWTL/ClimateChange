@@ -1,0 +1,700 @@
+the 0 cell is at 00, and the records are [26, 131, 152, 162, 194, 296, 340, 403, 428, 442]
+number of Cl: 4, exact records for CL: [26, 131, 152, 162]
+number of COl: 6, exact records for COL: [194, 296, 340, 403, 428, 442]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Not Okay!
+==========================
+the 1 cell is at 01, and the records are [20, 32, 146, 147, 166, 256, 257, 285, 359, 416]
+number of Cl: 5, exact records for CL: [20, 32, 146, 147, 166]
+number of COl: 5, exact records for COL: [256, 257, 285, 359, 416]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Not Okay!
+==========================
+the 2 cell is at 02, and the records are [2, 3, 21, 110, 111, 140, 185, 187, 328, 329, 341, 352]
+number of Cl: 6, exact records for CL: [2, 3, 21, 110, 111, 140]
+number of COl: 6, exact records for COL: [185, 187, 328, 329, 341, 352]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Not Okay!
+==========================
+the 3 cell is at 03, and the records are [64, 97, 165, 327, 330, 331, 345, 346, 362, 363]
+number of Cl: 3, exact records for CL: [64, 97, 165]
+number of COl: 7, exact records for COL: [327, 330, 331, 345, 346, 362, 363]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Not Okay!
+==========================
+the 4 cell is at 04, and the records are [5, 6, 7, 182, 188, 189, 190, 191, 373, 374, 489]
+number of Cl: 3, exact records for CL: [5, 6, 7]
+number of COl: 8, exact records for COL: [182, 188, 189, 190, 191, 373, 374, 489]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Not Okay!
+==========================
+the 5 cell is at 05, and the records are [23, 82, 83, 84, 320]
+number of Cl: 4, exact records for CL: [23, 82, 83, 84]
+number of COl: 1, exact records for COL: [320]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Not Okay!
+==========================
+the 6 cell is at 06, and the records are [19, 53, 54, 96, 98, 100, 174, 175, 176, 177]
+number of Cl: 10, exact records for CL: [19, 53, 54, 96, 98, 100, 174, 175, 176, 177]
+number of COl: 0, exact records for COL: []
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 7 cell is at 07, and the records are [0, 66, 68, 71, 73, 86, 173]
+number of Cl: 7, exact records for CL: [0, 66, 68, 71, 73, 86, 173]
+number of COl: 0, exact records for COL: []
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 8 cell is at 08, and the records are [55, 77, 87, 99, 103, 104, 105, 106, 107, 170]
+number of Cl: 10, exact records for CL: [55, 77, 87, 99, 103, 104, 105, 106, 107, 170]
+number of COl: 0, exact records for COL: []
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 9 cell is at 09, and the records are [76, 78, 88, 89, 90, 91, 108, 109, 112, 113, 305, 309]
+number of Cl: 10, exact records for CL: [76, 78, 88, 89, 90, 91, 108, 109, 112, 113]
+number of COl: 2, exact records for COL: [305, 309]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 10 cell is at 10, and the records are [15, 33, 39, 153, 159, 242, 449, 450]
+number of Cl: 5, exact records for CL: [15, 33, 39, 153, 159]
+number of COl: 3, exact records for COL: [242, 449, 450]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Not Okay!
+==========================
+the 11 cell is at 11, and the records are [25, 31, 36, 37, 38, 42, 141, 143, 145, 148, 149, 361, 453]
+number of Cl: 11, exact records for CL: [25, 31, 36, 37, 38, 42, 141, 143, 145, 148, 149]
+number of COl: 2, exact records for COL: [361, 453]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 12 cell is at 12, and the records are [114, 115, 116, 117, 118, 160, 197, 332, 333]
+number of Cl: 6, exact records for CL: [114, 115, 116, 117, 118, 160]
+number of COl: 3, exact records for COL: [197, 332, 333]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Not Okay!
+==========================
+the 13 cell is at 13, and the records are [46, 133, 156, 157, 334, 335, 336, 337, 357, 360, 366]
+number of Cl: 4, exact records for CL: [46, 133, 156, 157]
+number of COl: 7, exact records for COL: [334, 335, 336, 337, 357, 360, 366]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Not Okay!
+==========================
+the 14 cell is at 14, and the records are [16, 138, 142, 196]
+number of Cl: 3, exact records for CL: [16, 138, 142]
+number of COl: 1, exact records for COL: [196]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Not Okay!
+==========================
+the 15 cell is at 15, and the records are [10, 51, 52, 124, 135, 136, 137, 321, 364]
+number of Cl: 7, exact records for CL: [10, 51, 52, 124, 135, 136, 137]
+number of COl: 2, exact records for COL: [321, 364]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Not Okay!
+==========================
+the 16 cell is at 16, and the records are [57, 81, 122, 123, 164]
+number of Cl: 5, exact records for CL: [57, 81, 122, 123, 164]
+number of COl: 0, exact records for COL: []
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 17 cell is at 17, and the records are [58, 69, 102, 125, 126, 127, 128, 129, 130, 163, 351, 447]
+number of Cl: 10, exact records for CL: [58, 69, 102, 125, 126, 127, 128, 129, 130, 163]
+number of COl: 2, exact records for COL: [351, 447]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 18 cell is at 18, and the records are [17, 80, 167, 303]
+number of Cl: 3, exact records for CL: [17, 80, 167]
+number of COl: 1, exact records for COL: [303]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Not Okay!
+==========================
+the 19 cell is at 19, and the records are [4, 56, 59, 67, 70, 75, 79, 92, 93, 94, 95, 119, 120, 168, 169, 306]
+number of Cl: 15, exact records for CL: [4, 56, 59, 67, 70, 75, 79, 92, 93, 94, 95, 119, 120, 168, 169]
+number of COl: 1, exact records for COL: [306]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 20 cell is at 20, and the records are [11, 12, 13, 14, 245, 601]
+number of Cl: 4, exact records for CL: [11, 12, 13, 14]
+number of COl: 1, exact records for COL: [245]
+number of COH: 1, exact records for COH: [601]
+number of NROI: 0, exact records for NROI: []
+Not Okay!
+==========================
+the 21 cell is at 21, and the records are [28, 30, 34, 35, 155, 158]
+number of Cl: 6, exact records for CL: [28, 30, 34, 35, 155, 158]
+number of COl: 0, exact records for COL: []
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 22 cell is at 22, and the records are [29, 40, 43, 45, 134, 150, 212, 213, 231, 356]
+number of Cl: 6, exact records for CL: [29, 40, 43, 45, 134, 150]
+number of COl: 4, exact records for COL: [212, 213, 231, 356]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Not Okay!
+==========================
+the 23 cell is at 23, and the records are [44, 47, 132, 217, 232, 233, 387]
+number of Cl: 3, exact records for CL: [44, 47, 132]
+number of COl: 4, exact records for COL: [217, 232, 233, 387]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Not Okay!
+==========================
+the 24 cell is at 24, and the records are [201, 202, 203, 204, 205, 206, 218, 228, 229, 385, 389, 393]
+number of Cl: 0, exact records for CL: []
+number of COl: 12, exact records for COL: [201, 202, 203, 204, 205, 206, 218, 228, 229, 385, 389, 393]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 25 cell is at 25, and the records are [199, 315, 394, 395, 400]
+number of Cl: 0, exact records for CL: []
+number of COl: 5, exact records for COL: [199, 315, 394, 395, 400]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 26 cell is at 26, and the records are [1, 316, 317, 318, 322, 370, 372, 378]
+number of Cl: 1, exact records for CL: [1]
+number of COl: 7, exact records for COL: [316, 317, 318, 322, 370, 372, 378]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 27 cell is at 27, and the records are [48, 49, 50, 101, 121, 139, 195, 324]
+number of Cl: 6, exact records for CL: [48, 49, 50, 101, 121, 139]
+number of COl: 2, exact records for COL: [195, 324]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Not Okay!
+==========================
+the 28 cell is at 28, and the records are [18, 41, 61, 62, 63, 65, 72, 85, 295, 308, 344]
+number of Cl: 8, exact records for CL: [18, 41, 61, 62, 63, 65, 72, 85]
+number of COl: 3, exact records for COL: [295, 308, 344]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Not Okay!
+==========================
+the 29 cell is at 29, and the records are [60, 74, 144, 171, 172]
+number of Cl: 5, exact records for CL: [60, 74, 144, 171, 172]
+number of COl: 0, exact records for COL: []
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 30 cell is at 30, and the records are [151, 186, 207, 208, 209, 214, 215, 216, 230, 234, 235, 237, 254]
+number of Cl: 1, exact records for CL: [151]
+number of COl: 12, exact records for COL: [186, 207, 208, 209, 214, 215, 216, 230, 234, 235, 237, 254]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 31 cell is at 31, and the records are [8, 9, 198, 391]
+number of Cl: 2, exact records for CL: [8, 9]
+number of COl: 2, exact records for COL: [198, 391]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Not Okay!
+==========================
+the 32 cell is at 32, and the records are [27, 210, 211, 227, 238, 239]
+number of Cl: 1, exact records for CL: [27]
+number of COl: 5, exact records for COL: [210, 211, 227, 238, 239]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 33 cell is at 33, and the records are [240, 241, 404]
+number of Cl: 0, exact records for CL: []
+number of COl: 3, exact records for COL: [240, 241, 404]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 34 cell is at 34, and the records are [247, 279, 280, 310]
+number of Cl: 0, exact records for CL: []
+number of COl: 4, exact records for COL: [247, 279, 280, 310]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 35 cell is at 35, and the records are [259, 283, 284, 298, 301, 368, 369, 495, 499, 500]
+number of Cl: 0, exact records for CL: []
+number of COl: 10, exact records for COL: [259, 283, 284, 298, 301, 368, 369, 495, 499, 500]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 36 cell is at 36, and the records are [178, 179, 314, 396, 494, 503, 504]
+number of Cl: 0, exact records for CL: []
+number of COl: 7, exact records for COL: [178, 179, 314, 396, 494, 503, 504]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 37 cell is at 37, and the records are [22, 180, 181, 200, 307, 371, 383, 457, 483, 484]
+number of Cl: 1, exact records for CL: [22]
+number of COl: 9, exact records for COL: [180, 181, 200, 307, 371, 383, 457, 483, 484]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 38 cell is at 38, and the records are [161, 588]
+number of Cl: 1, exact records for CL: [161]
+number of COl: 0, exact records for COL: []
+number of COH: 1, exact records for COH: [588]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 39 cell is at 39, and the records are [545, 587, 589, 590]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 4, exact records for COH: [545, 587, 589, 590]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 40 cell is at 40, and the records are [192, 282, 297, 398]
+number of Cl: 0, exact records for CL: []
+number of COl: 4, exact records for COL: [192, 282, 297, 398]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 41 cell is at 41, and the records are [311, 312, 313, 482, 498, 501]
+number of Cl: 0, exact records for CL: []
+number of COl: 6, exact records for COL: [311, 312, 313, 482, 498, 501]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 42 cell is at 42, and the records are [302, 367, 460, 478, 492, 493]
+number of Cl: 0, exact records for CL: []
+number of COl: 6, exact records for COL: [302, 367, 460, 478, 492, 493]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 43 cell is at 43, and the records are [193, 246, 343, 455, 468, 479, 480, 481]
+number of Cl: 0, exact records for CL: []
+number of COl: 8, exact records for COL: [193, 246, 343, 455, 468, 479, 480, 481]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 44 cell is at 44, and the records are [184, 271, 294, 299, 319, 443, 497]
+number of Cl: 0, exact records for CL: []
+number of COl: 7, exact records for COL: [184, 271, 294, 299, 319, 443, 497]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 45 cell is at 45, and the records are [220, 281, 406]
+number of Cl: 0, exact records for CL: []
+number of COl: 3, exact records for COL: [220, 281, 406]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 46 cell is at 46, and the records are [248, 253, 272, 286, 304, 502]
+number of Cl: 0, exact records for CL: []
+number of COl: 6, exact records for COL: [248, 253, 272, 286, 304, 502]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 47 cell is at 47, and the records are [379, 381]
+number of Cl: 0, exact records for CL: []
+number of COl: 2, exact records for COL: [379, 381]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 48 cell is at 48, and the records are [506, 517, 581, 585, 591, 596, 664, 665]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 8, exact records for COH: [506, 517, 581, 585, 591, 596, 664, 665]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 49 cell is at 49, and the records are [509, 533, 536, 537, 539, 546, 595, 597]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 8, exact records for COH: [509, 533, 536, 537, 539, 546, 595, 597]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 50 cell is at 50, and the records are [244, 291, 292, 293, 399, 441]
+number of Cl: 0, exact records for CL: []
+number of COl: 6, exact records for COL: [244, 291, 292, 293, 399, 441]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 51 cell is at 51, and the records are [219, 222, 223, 224, 365, 440, 459, 461, 464, 465]
+number of Cl: 0, exact records for CL: []
+number of COl: 10, exact records for COL: [219, 222, 223, 224, 365, 440, 459, 461, 464, 465]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 52 cell is at 52, and the records are [183, 382, 384, 419, 439, 472]
+number of Cl: 0, exact records for CL: []
+number of COl: 6, exact records for COL: [183, 382, 384, 419, 439, 472]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 53 cell is at 53, and the records are [221, 273, 418, 420, 421, 422, 473]
+number of Cl: 0, exact records for CL: []
+number of COl: 7, exact records for COL: [221, 273, 418, 420, 421, 422, 473]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 54 cell is at 54, and the records are [407, 408, 452, 476, 671, 674, 697]
+number of Cl: 0, exact records for CL: []
+number of COl: 4, exact records for COL: [407, 408, 452, 476]
+number of COH: 0, exact records for COH: []
+number of NROI: 3, exact records for NROI: [671, 674, 697]
+Okay!
+==========================
+the 55 cell is at 55, and the records are [255, 474, 675, 703, 721, 725, 730, 735]
+number of Cl: 0, exact records for CL: []
+number of COl: 2, exact records for COL: [255, 474]
+number of COH: 0, exact records for COH: []
+number of NROI: 6, exact records for NROI: [675, 703, 721, 725, 730, 735]
+Okay!
+==========================
+the 56 cell is at 56, and the records are [682, 688, 692, 693, 716, 731]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 0, exact records for COH: []
+number of NROI: 6, exact records for NROI: [682, 688, 692, 693, 716, 731]
+Okay!
+==========================
+the 57 cell is at 57, and the records are [578, 580, 586, 624, 651, 661]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 6, exact records for COH: [578, 580, 586, 624, 651, 661]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 58 cell is at 58, and the records are [531, 532, 606]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 3, exact records for COH: [531, 532, 606]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 59 cell is at 59, and the records are [507, 508, 510, 514, 515, 516, 518, 582, 593, 594, 598, 599]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 12, exact records for COH: [507, 508, 510, 514, 515, 516, 518, 582, 593, 594, 598, 599]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 60 cell is at 60, and the records are [397, 423, 435, 711, 712, 713, 715]
+number of Cl: 0, exact records for CL: []
+number of COl: 3, exact records for COL: [397, 423, 435]
+number of COH: 0, exact records for COH: []
+number of NROI: 4, exact records for NROI: [711, 712, 713, 715]
+Okay!
+==========================
+the 61 cell is at 61, and the records are [401, 432, 676, 709]
+number of Cl: 0, exact records for CL: []
+number of COl: 2, exact records for COL: [401, 432]
+number of COH: 0, exact records for COH: []
+number of NROI: 2, exact records for NROI: [676, 709]
+Okay!
+==========================
+the 62 cell is at 62, and the records are [226, 266, 267, 417, 426, 434, 437, 705]
+number of Cl: 0, exact records for CL: []
+number of COl: 7, exact records for COL: [226, 266, 267, 417, 426, 434, 437]
+number of COH: 0, exact records for COH: []
+number of NROI: 1, exact records for NROI: [705]
+Okay!
+==========================
+the 63 cell is at 63, and the records are [268, 414, 427, 454, 490, 681, 683, 690]
+number of Cl: 0, exact records for CL: []
+number of COl: 5, exact records for COL: [268, 414, 427, 454, 490]
+number of COH: 0, exact records for COH: []
+number of NROI: 3, exact records for NROI: [681, 683, 690]
+Okay!
+==========================
+the 64 cell is at 64, and the records are [270, 411, 413, 475, 491, 667, 701, 707, 720, 727]
+number of Cl: 0, exact records for CL: []
+number of COl: 5, exact records for COL: [270, 411, 413, 475, 491]
+number of COH: 0, exact records for COH: []
+number of NROI: 5, exact records for NROI: [667, 701, 707, 720, 727]
+Okay!
+==========================
+the 65 cell is at 65, and the records are [666, 677, 679, 685, 694, 719]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 0, exact records for COH: []
+number of NROI: 6, exact records for NROI: [666, 677, 679, 685, 694, 719]
+Okay!
+==========================
+the 66 cell is at 66, and the records are [552, 575, 658, 714]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 3, exact records for COH: [552, 575, 658]
+number of NROI: 1, exact records for NROI: [714]
+Okay!
+==========================
+the 67 cell is at 67, and the records are [541, 571, 576, 625, 642, 643, 647, 653, 659]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 9, exact records for COH: [541, 571, 576, 625, 642, 643, 647, 653, 659]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 68 cell is at 68, and the records are [523, 629, 656, 662, 663]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 5, exact records for COH: [523, 629, 656, 662, 663]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 69 cell is at 69, and the records are [392, 505, 512, 513, 526, 527, 583, 584, 592, 600, 603, 604, 608]
+number of Cl: 0, exact records for CL: []
+number of COl: 1, exact records for COL: [392]
+number of COH: 12, exact records for COH: [505, 512, 513, 526, 527, 583, 584, 592, 600, 603, 604, 608]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 70 cell is at 70, and the records are [425, 436, 462, 680, 708, 717, 718]
+number of Cl: 0, exact records for CL: []
+number of COl: 3, exact records for COL: [425, 436, 462]
+number of COH: 0, exact records for COH: []
+number of NROI: 4, exact records for NROI: [680, 708, 717, 718]
+Okay!
+==========================
+the 71 cell is at 71, and the records are [380, 405, 467, 538, 678, 704, 733]
+number of Cl: 0, exact records for CL: []
+number of COl: 3, exact records for COL: [380, 405, 467]
+number of COH: 1, exact records for COH: [538]
+number of NROI: 3, exact records for NROI: [678, 704, 733]
+Okay!
+==========================
+the 72 cell is at 72, and the records are [265, 287, 288, 289, 290, 433, 451, 487]
+number of Cl: 0, exact records for CL: []
+number of COl: 8, exact records for COL: [265, 287, 288, 289, 290, 433, 451, 487]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 73 cell is at 73, and the records are [376, 415, 470, 488, 670, 689, 710, 724]
+number of Cl: 0, exact records for CL: []
+number of COl: 4, exact records for COL: [376, 415, 470, 488]
+number of COH: 0, exact records for COH: []
+number of NROI: 4, exact records for NROI: [670, 689, 710, 724]
+Okay!
+==========================
+the 74 cell is at 74, and the records are [375, 700, 726, 732, 734]
+number of Cl: 0, exact records for CL: []
+number of COl: 1, exact records for COL: [375]
+number of COH: 0, exact records for COH: []
+number of NROI: 4, exact records for NROI: [700, 726, 732, 734]
+Okay!
+==========================
+the 75 cell is at 75, and the records are [614, 668, 669, 672]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 1, exact records for COH: [614]
+number of NROI: 3, exact records for NROI: [668, 669, 672]
+Okay!
+==========================
+the 76 cell is at 76, and the records are [562, 612, 633, 635, 636, 648, 649]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 7, exact records for COH: [562, 612, 633, 635, 636, 648, 649]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 77 cell is at 77, and the records are [553, 554, 556, 559, 566, 570, 644, 655]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 8, exact records for COH: [553, 554, 556, 559, 566, 570, 644, 655]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 78 cell is at 78, and the records are [519, 542, 577, 621, 622, 627]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 6, exact records for COH: [519, 542, 577, 621, 622, 627]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 79 cell is at 79, and the records are [511, 528, 529, 540, 550, 563, 574, 610]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 8, exact records for COH: [511, 528, 529, 540, 550, 563, 574, 610]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 80 cell is at 80, and the records are [430, 431, 463]
+number of Cl: 0, exact records for CL: []
+number of COl: 3, exact records for COL: [430, 431, 463]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 81 cell is at 81, and the records are [274, 275, 276, 339, 438, 496]
+number of Cl: 0, exact records for CL: []
+number of COl: 6, exact records for COL: [274, 275, 276, 339, 438, 496]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 82 cell is at 82, and the records are [249, 260, 261, 326, 353]
+number of Cl: 0, exact records for CL: []
+number of COl: 5, exact records for COL: [249, 260, 261, 326, 353]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 83 cell is at 83, and the records are [386, 388, 409, 410, 471, 485, 702]
+number of Cl: 0, exact records for CL: []
+number of COl: 6, exact records for COL: [386, 388, 409, 410, 471, 485]
+number of COH: 0, exact records for COH: []
+number of NROI: 1, exact records for NROI: [702]
+Okay!
+==========================
+the 84 cell is at 84, and the records are [402, 469, 535, 691, 699]
+number of Cl: 0, exact records for CL: []
+number of COl: 2, exact records for COL: [402, 469]
+number of COH: 1, exact records for COH: [535]
+number of NROI: 2, exact records for NROI: [691, 699]
+Okay!
+==========================
+the 85 cell is at 85, and the records are [630, 684, 698, 736]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 1, exact records for COH: [630]
+number of NROI: 3, exact records for NROI: [684, 698, 736]
+Okay!
+==========================
+the 86 cell is at 86, and the records are [548, 569, 615, 619, 620, 657]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 6, exact records for COH: [548, 569, 615, 619, 620, 657]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 87 cell is at 87, and the records are [520, 530, 544, 572, 602, 607, 613, 632, 660]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 9, exact records for COH: [520, 530, 544, 572, 602, 607, 613, 632, 660]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 88 cell is at 88, and the records are [565, 567, 568, 611, 623, 638, 641, 695]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 7, exact records for COH: [565, 567, 568, 611, 623, 638, 641]
+number of NROI: 1, exact records for NROI: [695]
+Okay!
+==========================
+the 89 cell is at 89, and the records are [525, 547, 561, 609, 618, 639, 640]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 7, exact records for COH: [525, 547, 561, 609, 618, 639, 640]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 90 cell is at 90, and the records are [236, 250, 262, 263, 264, 278, 444, 445, 673]
+number of Cl: 0, exact records for CL: []
+number of COl: 8, exact records for COL: [236, 250, 262, 263, 264, 278, 444, 445]
+number of COH: 0, exact records for COH: []
+number of NROI: 1, exact records for NROI: [673]
+Okay!
+==========================
+the 91 cell is at 91, and the records are [243, 269, 277, 342, 354, 456, 686]
+number of Cl: 0, exact records for CL: []
+number of COl: 6, exact records for COL: [243, 269, 277, 342, 354, 456]
+number of COH: 0, exact records for COH: []
+number of NROI: 1, exact records for NROI: [686]
+Okay!
+==========================
+the 92 cell is at 92, and the records are [251, 252, 258, 347, 348, 349, 350, 429]
+number of Cl: 0, exact records for CL: []
+number of COl: 8, exact records for COL: [251, 252, 258, 347, 348, 349, 350, 429]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 93 cell is at 93, and the records are [225, 300, 323, 358, 412, 424, 448, 458, 466, 486]
+number of Cl: 0, exact records for CL: []
+number of COl: 10, exact records for COL: [225, 300, 323, 358, 412, 424, 448, 458, 466, 486]
+number of COH: 0, exact records for COH: []
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 94 cell is at 94, and the records are [24, 154, 325, 355, 377, 390, 446, 477, 706, 722]
+number of Cl: 2, exact records for CL: [24, 154]
+number of COl: 6, exact records for COL: [325, 355, 377, 390, 446, 477]
+number of COH: 0, exact records for COH: []
+number of NROI: 2, exact records for NROI: [706, 722]
+Not Okay!
+==========================
+the 95 cell is at 95, and the records are [338, 723, 728, 729]
+number of Cl: 0, exact records for CL: []
+number of COl: 1, exact records for COL: [338]
+number of COH: 0, exact records for COH: []
+number of NROI: 3, exact records for NROI: [723, 728, 729]
+Okay!
+==========================
+the 96 cell is at 96, and the records are [543, 616, 650, 652, 654, 687]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 5, exact records for COH: [543, 616, 650, 652, 654]
+number of NROI: 1, exact records for NROI: [687]
+Okay!
+==========================
+the 97 cell is at 97, and the records are [521, 522, 524, 573, 605, 634, 645, 646]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 8, exact records for COH: [521, 522, 524, 573, 605, 634, 645, 646]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 98 cell is at 98, and the records are [534, 560, 564, 631, 637]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 5, exact records for COH: [534, 560, 564, 631, 637]
+number of NROI: 0, exact records for NROI: []
+Okay!
+==========================
+the 99 cell is at 99, and the records are [549, 551, 555, 557, 558, 579, 617, 626, 628, 696]
+number of Cl: 0, exact records for CL: []
+number of COl: 0, exact records for COL: []
+number of COH: 9, exact records for COH: [549, 551, 555, 557, 558, 579, 617, 626, 628]
+number of NROI: 1, exact records for NROI: [696]
+Okay!
+==========================
