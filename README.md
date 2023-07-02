@@ -36,7 +36,7 @@ This research has a focus on using unsupervised learning like **Kmean** and **Se
  
 ---
 
-# ROI Extraction
+# ROI Extraction:
 To increase analysis efficiency, we will only focus on **Region Of Interests**.
 * Switching csv pressure map into grey scale map.
 * Apply [Connected Component](https://www.sciencedirect.com/science/article/pii/S0031320317301693) to seprated out different level of cluster.
@@ -46,6 +46,9 @@ To increase analysis efficiency, we will only focus on **Region Of Interests**.
 <img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/19c25973-de73-4fb0-9d91-43e923bc9c5a" height="100">
 <img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/2b1772de-3b7c-4115-bb92-81437d681fd7" height="100">
 <img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/52548b8b-20fb-4feb-9499-9161e93cc090" height="100">
+
+# Data Engineering:
+
 
 
 
