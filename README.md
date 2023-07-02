@@ -69,9 +69,9 @@ After cutting ROI from the entire pressure map, we performed a series of data en
 
 1. ```Normalization then cut:``` Considering the climate type determined by the difference between middle circle and boarder value, we normalize the entire pressure map and then cropping out the 15*15 ROI.
 
-2. ```Cut then Normalization:``` We cut the ROI out then normalize on the 15*15 image with a focus only on the current ROI.
+2. ```Cut then Normalization:``` We cut the ROI out then normalize on the 15*15 image.
 
-3. ```Wind map:``` wind has directions and presented as positive and negative value, so we normalize the map with standard scaler and crop the ROI out.
+3. ```Wind map:``` Wind directions are presented as positive and negative values, normalization then crop.
 
 <img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/4a32537c-862b-4d33-a761-36b5ff20c1fc" height="60"> <img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/954248ec-d7f9-47d3-8123-f8f9682d2be2" height="60"> <img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/63d37a4d-f855-4e81-b3ab-ebc43bda9f6d" height="60">
 
@@ -81,11 +81,12 @@ After cutting ROI from the entire pressure map, we performed a series of data en
 
 
 ## Unsupervised Machine Learning:
+
 **K-mean**: we first explore the possibility using K-mean to clustering 4 different climate types. 
 * ```Clusters:``` 4
 * ```Acc:``` 41%
 
-**Self Organizing Maps**:
+**Self Organizing Maps**: we delopy SOMs for clustering using nerual architecture
 * ```Size:``` 10*10
 * ```m_distance:``` 4
 * ```Leanring_rate:``` 0.05
