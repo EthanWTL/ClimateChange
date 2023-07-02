@@ -15,4 +15,4 @@ This research has a focus on using unsupervised learning like **Kmean** and **Se
 ---
 
 # Background:
-We received 10 years of [Pressure](Pressure_rawdata) and Wind data for North American Continent in csv format. 
+We received 10 years of [Pressure](Pressure_rawdata) and [Wind](Wind_rawdata) data for North American Continent in csv format. 
