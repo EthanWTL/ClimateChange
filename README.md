@@ -1,6 +1,10 @@
 # Understand Climate Types using Unsupervised Machine Learning
 
-
+![Contributors](https://img.shields.io/github/contributors/EthanWTL/ClimateChange?style=plastic)
+![Forks](https://img.shields.io/github/forks/EthanWTL/ClimateChange)
+![Stars](https://img.shields.io/github/stars/EthanWTL/ClimateChange)
+![Licence](https://img.shields.io/github/license/EthanWTL/ClimateChange)
+![Issues](https://img.shields.io/github/issues/EthanWTL/ClimateChange)
 
 
 ## Introduction:
@@ -11,11 +15,7 @@ We are working on understanding different climate types in North American Contin
 
 This research has a focus on using unsupervised learning like **Kmean** and **Self Organizing Maps** to clustering different climate types.<br>
 
-![Contributors](https://img.shields.io/github/contributors/EthanWTL/ClimateChange?style=plastic)
-![Forks](https://img.shields.io/github/forks/EthanWTL/ClimateChange)
-![Stars](https://img.shields.io/github/stars/EthanWTL/ClimateChange)
-![Licence](https://img.shields.io/github/license/EthanWTL/ClimateChange)
-![Issues](https://img.shields.io/github/issues/EthanWTL/ClimateChange)
+
 
 
 
@@ -122,6 +122,12 @@ The following diagram present the error rate within the SOM. We include the actu
 - [ ] Supervised ML
   - [ ] CNN
   - [ ] RNN
+     
+## Contact
+Ethan Wang - [e13wang@gmail.com](e13wang@gmail.com) - [Linkedin Profile](https://www.linkedin.com/in/ethan-wang-938588175/)
+
+
+Project Link: [https://github.com/matsudatakeshi27/HeartDiseasePakula](https://github.com/EthanWTL/ClimateChange)
      
 
 
