@@ -19,4 +19,4 @@ We received 10 years of [Pressure](Pressure_rawdata) and [Wind](Wind_rawdata) da
 
 A visualization of the map is as shown below.
 
-![](name-of-giphy.gif)
+![](Visualizations/actualmap.gif)
