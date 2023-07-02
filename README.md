@@ -1,5 +1,5 @@
 # Understand Climate Types using Unsupervised Machine Learning
-# Introduction:
+## Introduction:
 
 Hi, Scientists and Geologists. :smiley:
 
@@ -14,7 +14,7 @@ This research has a focus on using unsupervised learning like **Kmean** and **Se
 ![Issues](https://img.shields.io/github/issues/EthanWTL/ClimateChange)
 
 
-# Background:
+## Background:
  ```Datasets:``` We received 10 years of [Pressure](Pressure_rawdata) and [Wind](Wind_rawdata) data for North American Continent in csv format. 
 
 ![](Visualizations/actualmap.gif)
@@ -36,7 +36,7 @@ This research has a focus on using unsupervised learning like **Kmean** and **Se
  
 ---
 
-# ROI Extraction:
+## ROI Extraction:
 To increase analysis efficiency, we will only focus on **Region Of Interests**.
 * Switching csv pressure map into grey scale map.
 * Apply [Connected Component](https://www.sciencedirect.com/science/article/pii/S0031320317301693) to seprated out different level of cluster.
@@ -47,8 +47,11 @@ To increase analysis efficiency, we will only focus on **Region Of Interests**.
 <img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/2b1772de-3b7c-4115-bb92-81437d681fd7" height="100">
 <img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/52548b8b-20fb-4feb-9499-9161e93cc090" height="100">
 
-# Data Engineering:
-
+## Data Engineering:
+After cutting ROI from the entire pressure map, we performed a series of data engineering techniques.
+* ```Normalization then cut:``` Considering the climate type determined by the difference between middle circle and boarder value, we normalize the entire pressure map and then cropping out the 15*15 ROI.
+* ```Cut then Normalization:``` We cut the ROI out then normalize on the 15*15 image with a focus only on the current ROI.
+* ```Wind map:``` wind has directions and presented as positive and negative value, so we normalize the map with standard scaler and crop the ROI out.
 
 
 
