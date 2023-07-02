@@ -107,7 +107,7 @@ After cutting ROI from the entire pressure map, we performed a series of data en
 ## Important analysis
 The following diagram present the error rate within the SOM. We include the actual labels that fall in each neuron in SOM. We can clearly see that along the edge between Green and Orange, which represent between CL and COL, the error rate is increasing.
 
-<img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/cf430b69-2017-43d2-9165-60d7ec99290a" height="500">
+<img src="GeneralOutputs/colormap.png" height="500">
 
 
 
