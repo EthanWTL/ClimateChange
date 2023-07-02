@@ -49,14 +49,17 @@ To increase analysis efficiency, we will only focus on **Region Of Interests**.
 
 ## Data Engineering:
 After cutting ROI from the entire pressure map, we performed a series of data engineering techniques.
-* ```Normalization then cut:``` Considering the climate type determined by the difference between middle circle and boarder value, we normalize the entire pressure map and then cropping out the 15*15 ROI.
-<img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/4a32537c-862b-4d33-a761-36b5ff20c1fc" height="200">
 
-* ```Cut then Normalization:``` We cut the ROI out then normalize on the 15*15 image with a focus only on the current ROI.
-<img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/954248ec-d7f9-47d3-8123-f8f9682d2be2" height="200">
+```Normalization then cut:``` Considering the climate type determined by the difference between middle circle and boarder value, we normalize the entire pressure map and then cropping out the 15*15 ROI.
 
-* ```Wind map:``` wind has directions and presented as positive and negative value, so we normalize the map with standard scaler and crop the ROI out.
-<img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/63d37a4d-f855-4e81-b3ab-ebc43bda9f6d" height="200">
+
+
+```Cut then Normalization:``` We cut the ROI out then normalize on the 15*15 image with a focus only on the current ROI.
+
+
+```Wind map:``` wind has directions and presented as positive and negative value, so we normalize the map with standard scaler and crop the ROI out.
+
+<img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/4a32537c-862b-4d33-a761-36b5ff20c1fc" height="80"> <img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/954248ec-d7f9-47d3-8123-f8f9682d2be2" height="80"> <img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/63d37a4d-f855-4e81-b3ab-ebc43bda9f6d" height="80">
 
 ## Unsupervised Machine Learning:
 **K-mean**: we first explore the possibility using K-mean to clustering 4 different climate types. 
