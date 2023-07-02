@@ -1,4 +1,8 @@
 # Understand Climate Types using Unsupervised Machine Learning
+
+
+
+
 ## Introduction:
 
 Hi, Scientists and Geologists. :smiley:
@@ -12,6 +16,9 @@ This research has a focus on using unsupervised learning like **Kmean** and **Se
 ![Stars](https://img.shields.io/github/stars/EthanWTL/ClimateChange)
 ![Licence](https://img.shields.io/github/license/EthanWTL/ClimateChange)
 ![Issues](https://img.shields.io/github/issues/EthanWTL/ClimateChange)
+
+
+
 
 
 ## Background:
@@ -34,7 +41,12 @@ This research has a focus on using unsupervised learning like **Kmean** and **Se
 
  ```Goal:``` Try to determine different climate type from pressure and wind maps
  
----
+ ---
+
+
+
+
+
 
 ## ROI Extraction:
 To increase analysis efficiency, we will only focus on **Region Of Interests**.
@@ -47,19 +59,26 @@ To increase analysis efficiency, we will only focus on **Region Of Interests**.
 <img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/2b1772de-3b7c-4115-bb92-81437d681fd7" height="100">
 <img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/52548b8b-20fb-4feb-9499-9161e93cc090" height="100">
 
+
+
+
+
+
 ## Data Engineering:
 After cutting ROI from the entire pressure map, we performed a series of data engineering techniques.
 
 1. ```Normalization then cut:``` Considering the climate type determined by the difference between middle circle and boarder value, we normalize the entire pressure map and then cropping out the 15*15 ROI.
 
-
-
 2. ```Cut then Normalization:``` We cut the ROI out then normalize on the 15*15 image with a focus only on the current ROI.
-
 
 3. ```Wind map:``` wind has directions and presented as positive and negative value, so we normalize the map with standard scaler and crop the ROI out.
 
 <img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/4a32537c-862b-4d33-a761-36b5ff20c1fc" height="60"> <img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/954248ec-d7f9-47d3-8123-f8f9682d2be2" height="60"> <img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/63d37a4d-f855-4e81-b3ab-ebc43bda9f6d" height="60">
+
+
+
+
+
 
 ## Unsupervised Machine Learning:
 **K-mean**: we first explore the possibility using K-mean to clustering 4 different climate types. 
@@ -81,9 +100,31 @@ After cutting ROI from the entire pressure map, we performed a series of data en
 |COL|	40|	1|	276|	10|
 |NROI	|0	|3	|30	|38|
 
+
+
+
 ## Important analysis
 The following diagram present the error rate within the SOM. We include the actual labels that fall in each neuron in SOM. We can clearly see that along the edge between Green and Orange, which represent between CL and COL, the error rate is increasing.
 
 <img src="https://github.com/EthanWTL/ClimateChange/assets/97998419/cf430b69-2017-43d2-9165-60d7ec99290a" height="500">
 
 
+
+
+## Roadmap
+- [x] ROI Extraction and Labeling
+- [x] Label Validation
+- [x] Data Engineering
+- [x] Unsupervised ML
+  - [x] Kmean
+  - [x] SOMs
+- [ ] Supervised ML
+  - [ ] CNN
+  - [ ] RNN
+     
+
+
+ ## Ackowledgment:
+ * [The self-organizing map](https://ieeexplore.ieee.org/abstract/document/58325)
+* [Review of the self-organizing map (SOM) approach in water resources: Analysis, modelling and application](https://www.sciencedirect.com/science/article/abs/pii/S1364815207001879)
+* [A Review of K-mean Algorithm](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=65f1232434c5eeddd9e658db7ae0dd5c47b6e20d)
